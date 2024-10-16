@@ -1,2 +1,2 @@
 # Data_Analysis_BostonAirBNB
-Full Project of Dana Analysis about the best choices to buy a property in Boston, based on dataset from AirBNB
+Full Project to analyze Airbnb listings in Boston to identify favorable investment opportunities for property purchase and provide insights into pricing trends, popular neighborhoods, occupancy rates, and amenities.
